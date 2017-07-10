@@ -1,0 +1,25 @@
+{
+  "name": "mdc-sms-aliyun",
+  "version": "1.0.0",
+  "description": "阿里云SMS包",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airplake/mdc-sms-aliyun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/airplake/mdc-sms-aliyun/issues"
+  },
+  "homepage": "https://github.com/airplake/mdc-sms-aliyun#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
