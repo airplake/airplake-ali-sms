@@ -1,6 +1,6 @@
 {
   "name": "mdc-sms-aliyun",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "阿里云SMS包",
   "main": "index.js",
   "directories": {
